@@ -1,0 +1,20 @@
+# Environnements virtuels
+venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Fichiers de configuration locaux/sensibles
+.env
+secrets/
+
+# Données brutes (trop volumineuses pour Git)
+data/
+infos_especes.xlsx
+infos_especes(2).csv
+Images/
+
+# Fichiers locaux ou temporaires
+*.log
+*.DS_Store

@@ -1,0 +1,6 @@
+google-cloud-storage
+supabase
+pandas
+numpy
+pillow
+python-dotenv
