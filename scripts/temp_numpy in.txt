@@ -1,0 +1,8 @@
+Extrait 5x5 du tableau NumPy (valeurs des pixels en niveaux de gris) :
+[[142, 145, 132, 144, 136],
+ [141, 139, 136, 140, 143],
+ [131, 132, 138, 140, 141],
+ [116, 130, 140, 143, 139],
+ [120, 110, 124, 136, 139]]
+
+Forme du tableau : (224, 224)

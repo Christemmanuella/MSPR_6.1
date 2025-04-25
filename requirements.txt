@@ -3,4 +3,5 @@ supabase
 pandas
 numpy
 pillow
-python-dotenv
+python-dotenvt
+tensorflow
